@@ -7,10 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Active Directory</b>
-  - [Active Directory lab] 
+  - [Active Directory lab]
 - <b>Wireshark Lab</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Observing Network Traffic](https://github.com/LuisTorres262/Wireshark-Lab)
 
 <h2>🤳Connect with me:</h2>
 
