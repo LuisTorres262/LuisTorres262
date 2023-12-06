@@ -11,7 +11,7 @@
 - <b>Wireshark</b>
   - [Observing Network Traffic](https://github.com/LuisTorres262/Wireshark-Lab)
  
-- <b>Creating a Virtual Machine
+- <b>Creating a Virtual Machine in Azure</b>
 
 <h2>🤳Connect with me:</h2>
 
