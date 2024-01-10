@@ -12,7 +12,7 @@
   - [Observing Network Traffic](https://github.com/LuisTorres262/Wireshark-Lab)
  
 - <b>Azure Virtual Machine</b>
-  - [Creating a Virtual Machine](https://github.com/LuisTorres262/Wireshark-Lab)
+  - [Creating a Virtual Machine](https://github.com/LuisTorres262/Creating-a-Virtual-Machine)
 
 <h2>🤳Connect with me:</h2>
 
