@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/LuisTorres262/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Active Directory</b>
+- <b>Network File Shares and Permissions</b>
   - [Active Directory Lab](https://github.com/LuisTorres262/Active-Directory-Lab)
 - <b>Wireshark</b>
   - [Observing Network Traffic](https://github.com/LuisTorres262/Wireshark-Lab)
