@@ -6,7 +6,7 @@
   - [File Sharing and Permisions](https://github.com/LuisTorres262/Network-File-Shares-and-Permissions)
 - <b>Wireshark</b>
   - [Observing Network Traffic](https://github.com/LuisTorres262/Wireshark-Lab)
- - <b>Azure Virtual Machine</b>
+- <b>Azure Virtual Machine</b>
   - [Creating a Virtual Machine](https://github.com/LuisTorres262/Creating-a-Virtual-Machine)
 
 <h2>🤳Connect with me:</h2>
